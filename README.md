@@ -1,0 +1,1 @@
+# rule-wazuh-bruteforce
